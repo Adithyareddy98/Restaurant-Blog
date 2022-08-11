@@ -1,2 +1,2 @@
 # Restaurant-Blog
-My Restaurant infp
+My Restaurant info
